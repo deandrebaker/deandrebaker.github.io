@@ -1,5 +1,5 @@
 
-# std::cout << "Hello World!";
+# Hello World!
 Hi, my name is Deandre Baker, and this is my website! Here, you can find summaries about various projects I've created, as well as links to my GitHub repositories where you can find the source code for these projects.
 
 # About Me
