@@ -2,10 +2,10 @@
 # Hello World!
 Hi, my name is Deandre Baker, and this is my website! Here, you can find summaries about various projects I've created, as well as links to my GitHub repositories where you can find the source code for these projects.
 
-# About Me
+## About Me
 I am a junior software developer with a passion for electronics and computer programs. I am currently studying at the University of Waterloo, which is a school renowned for its state of the art engineering program and fantastic co-operative education. I have 4+ years of experience in computer programming and designing electronic circuits. I am proficient in the languages Java, C#, C, C++, and Python, and I continue to learn more languages and technologies. I am also a passionate martial artist with a second-degree black belt in 2 different styles!
 
-# Work Experience
+## Work Experience
 Most recently, I have work with HRWARE, a human resource management software company, where I built a Cortana skill to assist in human resource management. Through this work experience, I learned how to use technologies such as Microsoft's .NET and Bot frameworks to create an online chatbot able to sign in an employee, book vacations days, and allow a manager to approve or cancel vacation requests. All these features are performed through the hands-free Cortana virtual assistant, which reduces the need to log on to websites or wait for additional applications to open. I have also worked as a martial arts instructor, where I taught youth classes basic martial arts techniques and principles such as discipline and respect.
 
 # Projects
