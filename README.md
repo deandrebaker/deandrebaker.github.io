@@ -15,27 +15,27 @@ These are some of the notable projects I've worked on. The source code for all o
 
 The Artificial Gravity Room is a miniature model of a room able to increase the apparent gravity felt by a user standing inside it. This device uses the centrifugal force generated from circular motion to increase the apparent weight of the user. Unlike preexisting artificial gravity rooms that can increase the g-forces experienced by a seated user, this device allows the user to stand and move freely within the room. This way, researchers can test the effect of higher levels of gravity on a person's skeletal system when performing tasks such as running, jumping, and relaxing. Athletes can also train under the additional gravity to develop strength and condition their bodies.
 
-## Concussion Detection Helmet
+## [Concussion Detection Helmet](https://github.com/deandrebaker/Concussion_Detection_Helmet)
 ![20191104_191543](https://user-images.githubusercontent.com/49622234/68168703-a6e7bd00-ff37-11e9-89a5-c277d1fb7ec2.jpg)
 
 The Concussion Detection Helmet is a diagnostic device used to detect concussions that occur from an accident. The helmet can detect concussions by continuously monitoring the acceleration of the helmet. If the acceleration is over a specific threshold, then it would warn the user of a potential brain injury. When this occurs, an LED changes from green to yellow and a buzzer starts beeping. In the event of a severe concussion, the light changes to red and the buzzer plays a low tone. The user and bystanders would be aware of the potential brain damage that the user may have received and the level of danger the user is in. This will allow the victim to immediately seek medical attention and prevent the concussion from going unnoticed or untreated.
 
-## Electrician Calculator
+## [Electrician Calculator](https://github.com/deandrebaker/Electrician_Calculator)
 ![Electrician calculator (2)](https://user-images.githubusercontent.com/49622234/68549503-9d8ea280-03c6-11ea-8fc8-d9391e5fd260.png)
 
 The Electrician Calculator is a Java application used to assist electricians with calculating electrical quantities. This includes quantities such as voltage, current, resistance, and capacitance in both series and parallel circuits. The app allows the user to save calculated values and use them in other calculations. This app is helpful for beginner circuit designers who are learning to design electronic circuits using electronic components such as batteries, resistors, and integrated circuits.
 
-## Crash Caller
+## [Crash Caller](https://github.com/deandrebaker/Crash_Caller)
 ![20190118_131201](https://user-images.githubusercontent.com/49622234/62903534-036c7f00-bd31-11e9-85e8-f2cff4d186e1.jpg)
 
 The Crash Caller is an integrable car framework that calls 911 in the event of a car crash. The device is placed into a car and continuously measures the acceleration and orientation of the vehicle. If the vehicle experiences a sudden change in velocity from a collision, the device will call EMS and relay the longitude and latitude of the location where the accident occurred and the time when it happened. The device will also send a text message with that information to EMS. The user can abort the call by pressing the abort button within 10 seconds of the crash in the scenario that the collision was not severe. This device can help save the lives of unconscious victims of car collisions in locations where there are no witnesses to call EMS.
 
-## Bright Brain
+## [Bright Brain](https://github.com/deandrebaker/Bright_Brain)
 ![20190813_135934_314 (2)](https://user-images.githubusercontent.com/49622234/65550270-3fc4fa80-deed-11e9-8cfd-3781872d6e19.jpg)
 
 Bright Brain is a mental illness diagnostic device created to raise mental health awareness. The device conducts an interactive survey for the user to complete and diagnoses them as either healthy, depressed, bipolar, or having an anxiety disorder. The device also diagnoses the severity of each mental illness as either mild, moderate, or severe. The user inputs their answers using a 7 inch LCD touch screen that displays questions, options, and the results of the diagnosis. Upon completing the test, the device shows the results on the screen. It also illuminates a transparent model of a brain based on the results, showing where the most active parts of the brain are for someone with that diagnosis. When idle, the device displays mental illness statistics and facts.
 
-## Automated Soil pH Adjuster
+## [Automated Soil pH Adjuster](https://github.com/deandrebaker/Automatic_pH_Adjuster)
 ![20190530_133748](https://user-images.githubusercontent.com/49622234/62903977-8b9f5400-bd32-11e9-8bec-8b1f7405d618.jpg)
 
 The Automated Soil pH Adjuster is a prototype device that adjusts the pH of the soil to the optimal level for a particular plant. The user would set the pH that they would like the soil to be, and the device would add either an acid or a base to adjust the acidity or basicity of the water. When the soil becomes dry, the device will pump the pH adjusted water into the pot of soil for the plant to use. The device would also log the pH, humidity, temperature, and soil moisture onto an SD card as well as display it to a computer screen. This device can help beginner gardeners with growing healthy plants and vegetables. Farmers can also use this device to improve the quality of their crops and increase crop yield.
