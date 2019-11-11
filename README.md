@@ -10,7 +10,7 @@ Most recently, I have work with HRWARE, a human resource management software com
 # Projects
 These are some of the notable projects I've worked on. The source code for all of these projects can be found on my GitHub page. Many of these projects include technologies such as the Arduino microcontroller, sensors, motors, LEDs, and various modules.
 
-## Artificial Gravity Room
+## [Artificial Gravity Room](https://github.com/deandrebaker/Artificial_Gravity_Room)
 ![20190106_213427](https://user-images.githubusercontent.com/49622234/62903791-e4222180-bd31-11e9-82e2-02162d3519b1.jpg)
 
 The Artificial Gravity Room is a miniature model of a room able to increase the apparent gravity felt by a user standing inside it. This device uses the centrifugal force generated from circular motion to increase the apparent weight of the user. Unlike preexisting artificial gravity rooms that can increase the g-forces experienced by a seated user, this device allows the user to stand and move freely within the room. This way, researchers can test the effect of higher levels of gravity on a person's skeletal system when performing tasks such as running, jumping, and relaxing. Athletes can also train under the additional gravity to develop strength and condition their bodies.
